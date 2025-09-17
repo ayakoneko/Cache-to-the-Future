@@ -38,7 +38,7 @@ Developed collaboratively during QUT Hackathon 2025 by:
 - [Anant Srivastava](https://github.com/Gunsmoke09)  
 - Yee Wei Lim  
 - Kalin Panmanee
-- Ayako Neko (this repo)  
+- Ayako Kaneko (this repo)  
 
 ---
 
